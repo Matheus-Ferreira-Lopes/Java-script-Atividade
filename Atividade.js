@@ -5,12 +5,16 @@ let usuario = {
 };
 console.log("O login do administrador é admin e a senha é 12345, muito fraca por sinal.");
 
+console.log("---------------------------------------------------------------------------------------")
+
 let aluno = {
   nome: "Matheus",
   curso: "Desenvolvimento de Sistemas",
   turma: "DSI 3"
 };
 console.log("O aluno Matheus está matriculado no curso de Desenvolvimento de Sistemas, na turma DSI 3.");
+
+console.log("---------------------------------------------------------------------------------------")
 
 let professor = {
   nome: "Matheus",
@@ -19,12 +23,16 @@ let professor = {
 };
 console.log("O professor Matheus comanda a disciplina de JavaScript no turno da manhã.");
 
+console.log("---------------------------------------------------------------------------------------")
+
 let empresa = {
   nome: "SENAI",
   area: "TI",
   cidade: "Guarulhos"
 };
 console.log("A empresa SENAI atua na área de TI e fica em Guarulhos.");
+
+console.log("---------------------------------------------------------------------------------------")
 
 let computador = {
   marca: "Asus,",
@@ -33,12 +41,16 @@ let computador = {
 };
 console.log("O computador da marca Asus possui processador AMD Ryzen 5 5500 3.6GHz e memória de 16GB.");
 
+console.log("---------------------------------------------------------------------------------------")
+
 let livro = {
   titulo: "Supernatural: O Diário de John Winchester",
   autor: " Alex Irvine",
   paginas: 176
 };
 console.log("O livro Supernatural: O Diário de John Winchester  foi escrito por Alex Irvine e possui 176 páginas.");
+
+console.log("---------------------------------------------------------------------------------------")
 
 let filme = {
   nome: "Supernatural",
@@ -47,12 +59,16 @@ let filme = {
 };
 console.log("O filme Supernatural é do gênero Terror e foi lançado em 2005.");
 
+console.log("---------------------------------------------------------------------------------------")
+
 let jogo = {
   nome: "Fortnite",
   plataforma: "PC",
   genero: "Battle Royale"
 };
 console.log("O jogo Fortnite roda na plataforma PC e pertence ao gênero Battle Royale.");
+
+console.log("---------------------------------------------------------------------------------------")
 
 let conta = {
   usuario: "Matheus",
@@ -61,9 +77,14 @@ let conta = {
 };
 console.log("O usuário Matheus possui nível administrador e utiliza a senha 1234, muito fraca por sinal.");
 
+console.log("---------------------------------------------------------------------------------------")
+
 let escola = {
   nome: "SESI 427",
   cidade: "Guarulhos",
   turno: "manhã"
 };
+
 console.log("A escola SESI 427 funciona na cidade de Guarulhos no turno da manhã.");
+
+console.log("---------------------------------------------------------------------------------------")
